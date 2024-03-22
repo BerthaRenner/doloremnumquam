@@ -1,0 +1,20 @@
+{
+  "name": "doloremnumquam",
+  "version": "1.0.0",
+  "engines": {
+    "yarn": ">=1.7.0 <2.x.x",
+    "node": ">=12.14.1"
+  },
+  "devDependencies": {
+    "lerna": "^4.0.0"
+  },
+  "workspaces": [
+    "packages/*"
+  ],
+  "author": "BayleeBahringer",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/BerthaRenner/doloremnumquam.git"
+  },
+  "homepage": "https://github.com/BerthaRenner/doloremnumquam.git"
+}
